@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a Software Engineer eager to learn new things everyday 📖
+
+I've been working as a SDET for the last 6 years 🤖
+
+Recently I started to build a mobile app, that hopefully will be publicly released in a near future 📱
+
+Open to work! Looking for full-remote positions 💻
+
 <!--
 **falessa/falessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
