@@ -2,9 +2,7 @@
 
 I'm a Software Engineer eager to learn new things everyday 📖
 
-I've been working as a SDET for the last 6 years 🤖
-
-Recently I started to build a mobile app, that hopefully will be publicly released in a near future 📱
+This is a professional and personal space to experiment, share and learn everyday ✨
 
 <!--
 **falessa/falessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
