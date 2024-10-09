@@ -2,7 +2,7 @@
 
 🤖 I'm a Software Engineer, with over 10 years of experience as a QA Engineer and SDET.
 
-📖 I deeply enjoy learning new things every day. A few years ago I started digging into Frontend engineering, especially working with React, Javascript/Typescript, 
+📖 I deeply enjoy learning new things every day. A few years ago I started digging into Frontend engineering, especially working with React, Javascript/Typescript.
 
 This is a professional and personal space to experiment, share and learn everyday ✨
 
