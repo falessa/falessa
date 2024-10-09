@@ -8,7 +8,7 @@ This is a professional and personal space to experiment, share and learn everyda
 
 Some of the projects I developed in my spare time are listed below. If you'd like to ask for a feature, report an issue or contribute, please get in touch 🙂
 
-- [My workout](https://github.com/falessa/my-workout) (**React Native, Expo, Javascript, Jest**): create and store your workout plans. Go to the gym and leave your notebook and pen at home!
+- [My workout](https://github.com/falessa/my-workout) (**React Native, Expo, Redux, Redux-persist, Javascript, Jest**): create and store your workout plans. Go to the gym and leave your notebook and pen at home!
 - [Restaurants catalog](https://github.com/falessa/restaurants-catalog) (**React, MUI, Typescript, Apollo Client, testing-library**): search restaurants places anywhere in the world.
 - [Restaurant API proxy](https://github.com/falessa/restaurant-api-proxy) (**NodeJS, Typescript, Apollo Server, GraphQL**): Yelp GraphQL API Proxy. The backend for [Restaurants catalog](https://github.com/falessa/restaurants-catalog).
   
