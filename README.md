@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-🤖 I'm a Software Engineer, with over 10 years of experience as a QA Engineer and SDET.
+🤖 I'm a Software Engineer with over 10 years of experience as a QA Engineer and SDET. I'm currently exploring the Frontend Engineering field.
 
-📖 I deeply enjoy learning new things every day. A few years ago I started digging into Frontend engineering, especially working with React, Javascript/Typescript.
+📖 I’m passionate about learning and exploring new technologies. In recent years, I’ve been focused on frontend development, particularly working with React, React Native, and JavaScript/TypeScript.
 
-This is a professional and personal space to experiment, share and learn everyday ✨
+🤓 This GitHub space is both professional and personal - a place to experiment, stay up-to-date with the latest tech, and build creative solutions.
 
-Some of the projects I developed in my spare time are listed below. If you'd like to ask for a feature, report an issue or contribute, please [get in touch](https://www.linkedin.com/in/flaviagramajo/) 🙂
+Below are some projects I’ve developed in my spare time. If you'd like to request a feature, report an issue, or contribute, please [get in touch](https://www.linkedin.com/in/flaviagramajo/). I’m always happy to hear from the community!
 
-- [My workout](https://github.com/falessa/my-workout) (**React Native, Expo, Redux, Redux-persist, Javascript, Jest**): mobile app to create and store your workout plans. Go to the gym and leave your notebook and pen at home!
-- [Restaurants catalog](https://github.com/falessa/restaurants-catalog) (**React, MUI, Typescript, Apollo Client, testing-library**): search restaurants places anywhere in the world.
-- [Restaurant API proxy](https://github.com/falessa/restaurant-api-proxy) (**NodeJS, Typescript, Apollo Server, GraphQL**): Yelp GraphQL API Proxy. The backend for [Restaurants catalog](https://github.com/falessa/restaurants-catalog).
+- [My workout](https://github.com/falessa/my-workout) (**React Native, Expo, Redux Toolkit, Redux-persist, Javascript, Jest**): A mobile app to create and store your workout plans. Go to the gym and leave your notebook and pen at home!
+- [Restaurants catalog](https://github.com/falessa/restaurants-catalog) (**React, MUI, Typescript, Apollo Client, testing-library**): Search for restaurants or any business anywhere in the world.
+- [Restaurant API proxy](https://github.com/falessa/restaurant-api-proxy) (**NodeJS, Typescript, Apollo Server, GraphQL**): A Yelp GraphQL API Proxy. The backend for [Restaurants catalog](https://github.com/falessa/restaurants-catalog).
   
 <!--
 **falessa/falessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
